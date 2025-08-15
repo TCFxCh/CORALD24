@@ -37,7 +37,11 @@
   <li>Just click "Next/Ok" until the software has been setup.</li>
 </ol>
 
-
+<h3>Step 3:</h3>
+<ol>
+  <li>After installing</li>
+  <li>Enable all your Anti-virus</li>
+</ol>
 
 <h2>term and conditions</h2>
-<p>by using this is at your own risk</p>
+<p>by using this is at your own risk!!</p>
