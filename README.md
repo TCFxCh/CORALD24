@@ -4,7 +4,7 @@
 
 <h2>How to download</h2>
 <ol>
-  <li>Go to Release tab</li>
+  <li><a href="https://github.com/TCFxCh/CRLDProgram/releases/tag/Download">Go to Release tab or click this</a></li>
   <li>Choose your version</li>
   <li>Click to download it</li>
 </ol>
