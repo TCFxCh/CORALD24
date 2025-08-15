@@ -30,6 +30,7 @@
 <ol>
   <li>Go to File Explorer.</li>
   <li>Locate your downloaded file.</li>
+  <li>Right click "Rename" and add ".rar" at the back</li>
   <li>Right click and extract.</li>
   <li>Locate the extracted Folder.</li>
   <li>Right click on the software.</li>
